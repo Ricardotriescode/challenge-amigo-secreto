@@ -1,4 +1,4 @@
-h1> Challenge amigo secreto</h1> 
+<h1> Challenge amigo secreto</h1> 
 
 -Este proyecto corresponde al desafío propuesto en el curso
 "practicando logica de programación" de Alura, en asociación con Oracle.
